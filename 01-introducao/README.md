@@ -14,7 +14,7 @@ Neste módulo estudo os conceitos principais de **Introdução** em JavaScript, 
 
 ## Prática
 - Exercícios na pasta `/exercicios`
-- Projeto prático na pasta `/projeto`
+- Projeto prático na pasta `/projetos`
 
 ---
 
