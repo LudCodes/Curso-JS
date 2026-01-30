@@ -16,7 +16,7 @@ Neste módulo, estudo os fundamentos da linguagem JavaScript, entendendo como os
 
 ## Prática
 - Exercícios na pasta `/exercicios`
-- Projeto prático na pasta `/projeto`
+- Projeto prático na pasta `/projetos`
 
 ---
 
