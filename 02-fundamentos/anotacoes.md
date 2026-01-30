@@ -85,7 +85,7 @@ Operadores são símbolos ou palavras que dizem ao programa o que fazer com valo
 | Operador | Descrição | Exemplo |
 |----------|----------|----------|
 | && | AND logico | if(condicao1 && condicao2) |
-| "||" | OR logico | if(condicao1 || condicao2) |
+| \|\| | OR logico | if(condicao1 \|\| condicao2) |
 | ! | NOT logico  | if(!condicao)  |
 
 ### Coerção de Tipos
