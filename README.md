@@ -1,4 +1,4 @@
-# 📘 Curso de JavaScript — Do Zero aos Fundamentos
+#  Curso de JavaScript — Do Zero aos Fundamentos
 
 Este repositório documenta meu processo de aprendizado em **JavaScript**, estruturado como um **curso completo**, com:
 - Conteúdo teórico
