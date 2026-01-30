@@ -1,10 +1,10 @@
-# 📌 Módulo 01 — Introdução ao JavaScript
+# Módulo 01 — Introdução ao JavaScript
 
 Neste módulo estudo os conceitos principais de **Introdução** em JavaScript, com teoria e prática.
 
 ---
 
-## 📚 O que foi estudado
+## O que foi estudado
 - O que é JS / Para que serve
 - Onde roda
 - Como adicionar JS no HTML
