@@ -167,8 +167,8 @@ do {
 console.log("Programa encerrado");
 
 ```
-→ O menu aparece pelo menos uma vez.
- 
+> O menu aparece pelo menos uma vez.
+>
 
 → Loops servem para **automatizar repetição**
 
