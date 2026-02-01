@@ -1,4 +1,4 @@
-# Fundamentos da Linguagem
+# Controle de Fluxo
 
 Neste módulo, estudo sobre o controle de fluxo e estrutura de decisão em JavaScript, entendendo como o sistema toma decisões e quais suas limitações.
 
