@@ -57,7 +57,8 @@ for (let i = 0; i < frutas.length; i++){
 //pera
 
 ```
-❗Ele repete a quantidade de vezes compativel com a quantidade de variaveis;
+> Ele repete a quantidade de vezes compativel com a quantidade de variaveis;
+>
 
 - Tabela de Formas de Incremento (i)
   
@@ -123,8 +124,8 @@ console.log("Acesso liberado");
 ```
 
 
-☝🏾 O loop continua até acertar a senha
-
+> O loop continua até acertar a senha
+>
 
 #### Quando usar `while`
 
@@ -139,8 +140,8 @@ do {
 	//código
 } while (condição);
 ```
-→ A condição é verificada depois
-
+> A condição é verificada depois
+>
 
 Exemplo simples
 
@@ -154,7 +155,8 @@ console.log(numero);
 //console: 6
 ```
 
-→ mesmo sendo falso é executado pelo menos uma vez 
+> mesmo sendo falso é executado pelo menos uma vez 
+>
 
 Exemplo prático
 ```js
