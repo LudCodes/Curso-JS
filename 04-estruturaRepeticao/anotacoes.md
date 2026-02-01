@@ -59,6 +59,7 @@ for (let i = 0; i < frutas.length; i++){
 ```
 ❗Ele repete a quantidade de vezes compativel com a quantidade de variaveis;
 
+- Tabela de Formas de Incremento (i)
 | Código      | O que faz              | Exemplo | Resultado |
 | ----------- | ---------------------- | ------- | --------- |
 | `i = i + 1` | Soma 1 ao valor        | `i = 5` | `i = 6`   |
