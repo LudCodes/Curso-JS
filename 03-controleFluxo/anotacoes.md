@@ -109,9 +109,10 @@ switch (valor) {
 switch (cor)
 ```
 
-<aside>
+
 👉🏾O JS pega **apenas esse valor** e compara com cada `case`
-</aside>
+
+
 
 - O switch usa comparação **estrita (===).**
 - O tipo e valor precisam ser iguais.
@@ -210,11 +211,10 @@ switch (fruta) {
 //Você não trouxe nenhuma fruta
 ```
 
-<aside>
 💡Você pode ter mais de uma case dentro de um mesmo escopo.
-</aside>
 
-<aside>
+
+
 💡É possível concatenar dentro das cases
-</aside>
+
 
