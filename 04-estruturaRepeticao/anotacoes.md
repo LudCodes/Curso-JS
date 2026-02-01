@@ -171,5 +171,7 @@ console.log("Programa encerrado");
  
 
 → Loops servem para **automatizar repetição**
+
 → Evitam código repetido
+
 → São essenciais em **arrays, jogos, desafios e sistemas**
